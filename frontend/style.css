@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d1cac3;
+}
+header  {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(116, 48, 9);
+}
+header div {
+    display: block;
+    text-align: center;
+}
+#userSection {
+    color: rgb(212, 129, 33);
+    font-size: 30px;
+    text-align: center;
+}
+#noteSection {
+    margin: 20px;
+    background-color: rgb(209, 184, 156);
+    font-size: 20px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#noteSection h3 {
+    color: rgb(99, 40, 6);
+}
